@@ -126,7 +126,7 @@ document.querySelectorAll('.book-now-btn').forEach(button => {
     alert(`Booking initiated for ${serviceTitle} - ${subServiceTitle}`);
 
     // Example: Open phone dialer (if on a mobile device)
-    window.location.href = "tel:+917827972022"; // Replace with the number to dial
+    window.location.href = "tel:+918218636176"; // Replace with the number to dial
   });
 });
 

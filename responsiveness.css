@@ -1,0 +1,686 @@
+@media(min-width:1400px){
+  .mail-popup {
+    display: none;
+  }
+}
+@media(min-width:1144px) and (max-width:1400px){
+  .hero {
+    height: auto;
+  }
+  .contact{
+    display: none;
+  }
+  .header-cpntact-btn{
+    display: none;
+  }
+  .why-choose-us{
+    margin-left: 12em;
+  }
+}
+@media(min-width:1000px) and (max-width:1144px){
+  .hero {
+    height: auto;
+  }
+  .contact{
+    display: none;
+  }
+  .header-cpntact-btn{
+    display: none;
+  }
+  .footer-about{
+    min-width: 950px;
+    text-align: center;
+  }
+}
+@media(min-width:900px) and (max-width:1000px){
+  .line1{
+    font-size: 1.88em;
+  }
+  .line2{
+    font-size: 2.4em;
+  }
+  .line3{
+    font-size: 1.88em;
+  }
+  .hero p{
+    font-size:1.2em
+  }
+  .hero {
+    height: auto;
+  }
+  .contact{
+    display: none;
+  }
+  .sub-service-card h4 {
+    font-size: 1.2em;
+  }
+  .sub-service-card {
+    width:150px; 
+  }
+  .footer-about{
+    min-width: 850px;
+    text-align: center;
+  }
+  .header-cpntact-btn{
+    display: none;
+  }
+}
+
+@media(min-width:800px) and (max-width:900px){
+  .line1{
+    font-size: 1.68em;
+  }
+  .line2{
+    font-size: 2.2em;
+  }
+  .line3{
+    font-size: 1.68em;
+  }
+  .hero p{
+    font-size:1.2em
+  }
+  .hero {
+    height: auto;
+  }
+  .contact{
+    display: none;
+  }
+  .sub-service-card h4 {
+    font-size: 1.2em;
+  }
+  .sub-service-card {
+    width:120px; 
+  }
+  .footer-about{
+    min-width: 750px;
+    text-align: center;
+  }
+}
+@media(min-width:700px) and (max-width:800px){
+  .line1{
+    font-size: 1.48em;
+  }
+  .line2{
+    font-size: 2em;
+  }
+  .line3{
+    font-size: 1.48em;
+  }
+  .hero p{
+    font-size:1em
+  }
+  .hero {
+    height: auto;
+  }
+  .contact{
+    display: none;
+  }
+}
+@media(min-width:728px) and (max-width:800px){
+  .footer-about{
+    min-width: 650px;
+    text-align: center;
+  }
+}
+@media(min-width:600px) and (max-width:700px){
+  .line1{
+    font-size: 1.28em;
+  }
+  .line2{
+    font-size: 1.8em;
+  }
+  .line3{
+    font-size: 1.28em;
+  }
+  .hero p{
+    font-size:1em
+  }
+  .hero {
+    height: auto;
+  }
+  .contact{
+    display: none;
+  }
+  .nav .header-opt a{
+    display: none;
+  }
+  
+  .footer-links .quick-link{
+    display: none;
+  }
+  #logo{
+    padding-left:37%;
+  }
+  .reason{
+    width:210px;
+  }
+}
+@media(min-width:550px) and (max-width:600px){
+  .line1{
+    font-size: 1.17em;
+  }
+  .line2{
+    font-size: 1.6em;
+  }
+  .line3{
+    font-size: 1.17em;
+  }
+  .hero p{
+    font-size:1em
+  }
+  .hero {
+    height: auto;
+  }
+  .services h2 {
+    font-size: 2em;
+
+  }
+  .service-title {
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+  .sub-service-card h4 {
+    font-size: 1.2em;
+  }
+  .sub-service-card {
+    width:200px; 
+  }
+  .contact{
+    display: none;
+  }
+  .why-choose-us h2 {
+    font-size: 1.5em;
+  }
+  .reason{
+    width:185px;
+  }
+  .reason h3 {
+    font-size: 1em;
+  }
+  .reason p {
+    font-size: .7em;
+  }
+  #logo{
+    padding-left:37%;
+  }
+  .nav .header-opt a{
+    display: none;
+  }
+  
+  .footer-links .quick-link{
+    display: none;
+  }
+  .call-area{
+    height: 3.5em;
+    width: 3.5em;
+  }
+  .call-icon img {
+    width: 3em;
+    height: 3em;
+  }
+  .mail-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+  .whatsapp-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+}
+@media(min-width:509px) and (max-width:550px){
+  .line1{
+    font-size: 1.07em;
+  }
+  .line2{
+    font-size: 1.5em;
+  }
+  .line3{
+    font-size: 1.07em;
+  }
+  .hero p{
+    font-size:1em
+  }
+  .hero {
+    height: auto;
+  }
+  .services h2 {
+    font-size: 2em;
+
+  }
+  .service-title {
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+  .sub-service-card h4 {
+    font-size: 1.2em;
+  }
+  .sub-service-card {
+    width:180px; 
+  }
+  .contact{
+    display: none;
+  }
+  .why-choose-us h2 {
+    font-size: 1.5em;
+  }
+  .reason{
+    width:160px;
+  }
+  .reason h3 {
+    font-size: 1em;
+  }
+  .reason p {
+    font-size: .7em;
+  }
+  #logo{
+    padding-left:30%;
+  }
+  .nav .header-opt a{
+    display: none;
+  }
+  
+  .footer-links .quick-link{
+    display: none;
+  }
+  .call-area{
+    height: 3.5em;
+    width: 3.5em;
+  }
+  .call-icon img {
+    width: 3em;
+    height: 3em;
+  }
+  .mail-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+  .whatsapp-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+}
+@media(min-width:450px) and (max-width:509px){
+  .background {
+    width:100vw;
+  }
+  .line1{
+    font-size: .94em;
+  }
+  .line2{
+    font-size: 1.3em;
+  }
+  .line3{
+    font-size: .94em;
+  }
+  .hero p{
+    font-size:1em
+  }
+  .hero {
+    height: auto;
+  }
+  .services h2 {
+    font-size: 2em;
+
+  }
+  .service-title {
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+  .sub-service-card h4 {
+    font-size: 1.2em;
+  }
+  .sub-service-card {
+    width:140px; 
+  }
+  .contact{
+    display: none;
+  }
+  .why-choose-us h2 {
+    font-size: 1.5em;
+  }
+  .reason{
+    width:130px;
+  }
+  .reason h3 {
+    font-size: 1em;
+  }
+  .reason p {
+    font-size: .7em;
+  }
+  #logo{
+    padding-left:30%;
+  }
+  .nav .header-opt a{
+    display: none;
+  }
+  
+  .footer-links .quick-link{
+    display: none;
+  }
+  .call-area{
+    height: 3.5em;
+    width: 3.5em;
+  }
+  .call-icon img {
+    width: 3em;
+    height: 3em;
+  }
+  .mail-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+  .whatsapp-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+}
+@media(min-width:400px) and (max-width:450px){
+  .background {
+    width:100vw;
+  }
+  .line1{
+    font-size: .829em;
+  }
+  .line2{
+    font-size: 1.2em;
+  }
+  .line3{
+    font-size: .829em;
+  }
+  .hero p{
+    font-size:.829em
+  }
+  .hero {
+    height: auto;
+  }
+  .services h2 {
+    font-size: 2em;
+
+  }
+  .service-title {
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+  .sub-service-card h4 {
+    font-size: 1.2em;
+  }
+  .sub-service-card {
+    width:120px; 
+  }
+  .contact{
+    display: none;
+  }
+  .why-choose-us h2 {
+    font-size: 1.5em;
+  }
+  .reason{
+    width:110px;
+  }
+  .reason h3 {
+    font-size: 1em;
+  }
+  .reason p {
+    font-size: .7em;
+  }
+  #logo{
+    padding-left:30%;
+  }
+  .nav .header-opt a{
+    display: none;
+  }
+  
+  .footer-links .quick-link{
+    display: none;
+  }
+  .call-area{
+    height: 3.5em;
+    width: 3.5em;
+  }
+  .call-icon img {
+    width: 3em;
+    height: 3em;
+  }
+  .mail-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+  .whatsapp-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+}
+@media (min-width: 386px) and (max-width: 400px) {
+  .background {
+    width:100vw;
+  }
+  .line1{
+    font-size: .79em;
+  }
+  .line2{
+    font-size: 1em;
+  }
+  .line3{
+    font-size: .79em;
+  }
+  .hero p{
+    font-size:.8em
+  }
+  .hero {
+    height: auto;
+  }
+  .services h2 {
+    font-size: 2em;
+  }
+  .service-title {
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+  .sub-service-card h4 {
+    font-size: 1.2em;
+  }
+  .sub-service-card {
+    width:120px; 
+  }
+  .contact{
+    display: none;
+  }
+  .why-choose-us h2 {
+    font-size: 1.5em;
+  }
+  .reason{
+    width:105px;
+  }
+  .reason h3 {
+    font-size: 1em;
+  }
+  .reason p {
+    font-size: .7em;
+  }
+  #logo{
+    padding-left:30%;
+  }
+  .nav .header-opt a{
+    display: none;
+  }
+  
+  .footer-links .quick-link{
+    display: none;
+  }
+  .call-area{
+    height: 3.5em;
+    width: 3.5em;
+  }
+  .call-icon img {
+    width: 3em;
+    height: 3em;
+  }
+  .mail-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+  .whatsapp-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+}
+
+@media (min-width:375px) and (max-width: 386px) {
+  .background {
+    width:105vw;
+  }
+  .line1{
+    font-size: .72em;
+  }
+  .line2{
+    font-size: 1em;
+  }
+  .line3{
+    font-size: .72em;
+  }
+  .hero p{
+    font-size:.78em
+  }
+  .hero {
+    height: auto;
+  }
+  .services h2 {
+    font-size: 1.8em;
+
+  }
+  .service-title {
+    font-size: 1.4em;
+    font-weight: 700;
+  }
+  .sub-service-card h4 {
+    font-size: 1.1em;
+    margin-top: 0px;
+  }
+  .sub-service-card {
+    width:105px; 
+    height: 100px;
+  }
+  .book-now-btn {
+    font-size: .8em;
+  }
+  .contact{
+    display: none;
+  }
+  .why-choose-us h2 {
+    font-size: 1.5em;
+  }
+  .reason{
+    width:20em;
+  }
+  .reason h3 {
+    font-size: 1em;
+  }
+  .reason p {
+    font-size: .7em;
+  }
+  #logo{
+    padding-left:30%;
+  }
+  .nav .header-opt a{
+    display: none;
+  }
+  
+  .footer-links .quick-link{
+    display: none;
+  }
+  .call-area{
+    height: 3.5em;
+    width: 3.5em;
+  }
+  .call-icon img {
+    width: 3em;
+    height: 3em;
+  }
+  .mail-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+  .whatsapp-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+}
+@media (min-width:320px) and (max-width: 375px) {
+  .background {
+    width:120vw;
+  }
+  .line1{
+    font-size: .72em;
+  }
+  .line2{
+    font-size: 1em;
+  }
+  .line3{
+    font-size: .72em;
+  }
+  .hero p{
+    font-size:.78em
+  }
+  .hero {
+    height: auto;
+  }
+  .services h2 {
+    font-size: 1.8em;
+
+  }
+  .service-title {
+    font-size: 1.4em;
+    font-weight: 700;
+  }
+  .sub-service-card h4 {
+    font-size: 1.1em;
+    margin-top: 0px;
+  }
+  .sub-service-card {
+    width:105px; 
+    height: 100px;
+  }
+  .book-now-btn {
+    font-size: .8em;
+  }
+  .contact{
+    display: none;
+  }
+  .why-choose-us h2 {
+    font-size: 1.5em;
+  }
+  .reason{
+    width:20em;
+  }
+  .reason h3 {
+    font-size: 1em;
+  }
+  .reason p {
+    font-size: .7em;
+  }
+  #logo{
+    padding-left:30%;
+  }
+  .nav .header-opt a{
+    display: none;
+  }
+  
+  .footer-links .quick-link{
+    display: none;
+  }
+  .call-area{
+    height: 3.5em;
+    width: 3.5em;
+  }
+  .call-icon img {
+    width: 3em;
+    height: 3em;
+  }
+  .mail-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+  .whatsapp-icon img {
+    width: 3.5em;
+    height: 3.5em;
+  }
+}
